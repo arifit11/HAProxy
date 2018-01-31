@@ -1,0 +1,64 @@
+2018-01-19 18:24:23,264 p=46290 u=arifkhan |  192.168.33.12 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
+2018-01-19 18:24:23,264 p=46290 u=arifkhan |  192.168.33.11 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
+2018-01-19 18:28:24,370 p=46302 u=arifkhan |  192.168.33.12 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
+2018-01-19 18:28:24,371 p=46302 u=arifkhan |  192.168.33.11 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
+2018-01-19 18:28:41,058 p=46313 u=arifkhan |  192.168.33.11 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
+2018-01-19 18:28:41,058 p=46313 u=arifkhan |  192.168.33.12 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
+2018-01-23 01:24:30,656 p=67094 u=arifkhan |  Using /Users/arifkhan/.ansible.cfg as config file
+2018-01-23 01:24:31,154 p=67094 u=arifkhan |  192.168.33.12 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
+2018-01-23 01:24:31,154 p=67094 u=arifkhan |  192.168.33.11 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
+2018-01-23 01:28:13,498 p=67128 u=arifkhan |  Using /Users/arifkhan/.ansible.cfg as config file
+2018-01-23 01:28:13,960 p=67128 u=arifkhan |  192.168.33.11 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
+2018-01-23 01:28:49,530 p=67136 u=arifkhan |  Using /Users/arifkhan/.ansible.cfg as config file
+2018-01-23 01:28:50,008 p=67136 u=arifkhan |  192.168.33.11 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
+2018-01-23 01:29:19,265 p=67144 u=arifkhan |  Using /Users/arifkhan/.ansible.cfg as config file
+2018-01-23 01:29:19,731 p=67144 u=arifkhan |  192.168.33.11 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
+2018-01-23 01:29:19,732 p=67144 u=arifkhan |  192.168.33.12 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: command-line: line 0: Bad configuration option: -o\r\n", 
+    "unreachable": true
+}
